@@ -15,22 +15,21 @@ I build agentic LLM pipelines, RAG systems, and production-ready Python backends
 
 ## 💼 Experience
 
+### Sri Lanka Telecom · Colombo, Sri Lanka
+
+**AI/ML Engineer Intern** · 10/2026 – Present
+- Developing AI and machine learning solutions to support telecommunications workflows and data analytics initiatives, with a primary focus on **RAG-based application development**.
+- Collaborating with engineering teams to explore agentic pipelines and automated intelligence frameworks.
+- **Tech:** Python, Machine Learning, Data Pipelines, AI Solutions
+
 ### Department of Examinations – Sri Lanka · Pelawatta, Sri Lanka
 
-**AI Application Engineer Intern (Volunteer)** · 08/2026 – Present
-- Refine the automated validation workflow by engineering strict context validation logic, ensuring generated assessment items stay factually aligned with official syllabus materials.
-- Optimize the hybrid retrieval process across vector and knowledge graph layers, reducing query latency and maximizing context precision during test generation.
-
-**AI Application Engineer Intern** · 02/2026 – 08/2026
+**AI Application Engineer Intern** · 02/2026 – 10/2026
 - Architected a multi-agent LLM pipeline on **Dify** with a 4-workflow system (Coordinator, Context, Generation, Validation) and **Redis**-backed state management to prevent payload corruption during tool calls.
 - Engineered a self-correcting retry loop that automatically regenerates failed assessment questions using structured feedback across 6 quality metrics, including Bloom's taxonomy, distractor quality, and difficulty calibration.
 - Built a hybrid **GraphRAG** and vector retrieval layer using **Neo4j**, **Qdrant**, and **LightRAG** for deep, traceable context grounding from raw curriculum materials.
-
-### IoT and Machine Learning Developer (Freelance Project) · 2024
-
-**Smart Waste Bin and Waste Management System**
-- Developed an IoT-based smart waste management system using computer vision; fine-tuned a **MobileNetV2** model with TensorFlow and Keras, achieving **88% accuracy** in classifying plastic and organic waste.
-- Built core **Flutter** mobile app features to simplify waste disposal for users and integrated a real-time ML model on **ESP32-CAM**, including data preprocessing and system testing.
+- Refined the automated validation workflow by engineering strict context validation logic, ensuring generated assessment items stay factually aligned with official syllabus materials.
+- Optimized the hybrid retrieval process across vector and knowledge graph layers, reducing query latency and maximizing context precision during test generation.
 
 ## 🚀 Projects
 
@@ -53,8 +52,8 @@ I build agentic LLM pipelines, RAG systems, and production-ready Python backends
 **Backend & Web**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 
-**Machine Learning & IoT**<br>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32--CAM-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+**Machine Learning & Data**<br>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Tools & Infrastructure**<br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
